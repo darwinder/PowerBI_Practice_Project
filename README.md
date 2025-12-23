@@ -1,2 +1,3 @@
 # PowerBI ECom Dashboard
-Analytical Portfolio
+Interactive Power BI dashboard for a business called EcomExpress, to analyse sales performance.
+
