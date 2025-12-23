@@ -1,2 +1,2 @@
-# PowerBI_ECom_Dashboard
+# PowerBI ECom Dashboard
 Analytical Portfolio
