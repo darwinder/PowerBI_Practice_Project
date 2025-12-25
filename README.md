@@ -2,7 +2,7 @@
 ### Overview
 This project features an interactive Power BI dashboard to analyse sales, product performance and overall business trends for an e-commerce company (EcomExpress). The dataset covers transactions from January 2024 to November 2024.
 
-<img width="1276" height="722" alt="image" src="https://github.com/user-attachments/assets/bac4a7e2-6736-4bcf-9a11-4898d7f6116b" />
+<img width="1277" height="722" alt="image" src="https://github.com/user-attachments/assets/c26a9d14-d367-4133-870d-a385d3d54378" />
 
 ### Dashboard Insights
 - Revenue trends over time
