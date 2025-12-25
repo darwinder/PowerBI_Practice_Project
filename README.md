@@ -8,7 +8,7 @@ This project features an interactive Power BI dashboard to analyse sales, produc
 - Revenue trends over time
 - Product and category-level performance 
 - Contribution of different product categories to total revenue (via slicers)
-- Key business KPIs including total revenue, average order value, and cancellation rate
+- KPIs including total revenue, average order value, and cancellation rate
 ### Methodology & Tools Used
 - Data cleaning, exploration and transformation in Power BI
 - Creation of interactive visuals and slicers
