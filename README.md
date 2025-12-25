@@ -1,6 +1,6 @@
 # EcomExpress: Sales & Product Performance Analysis
 
-[Live](https://1drv.ms/u/c/b477acc3ceaa894e/IQBM8cRGpo-4SpoJcLkkH2JMAajLjs53bHlrFAoT5k7Gal4?e=pPxZYS) Dashboard 
+[View Dashboard](https://1drv.ms/u/c/b477acc3ceaa894e/IQBM8cRGpo-4SpoJcLkkH2JMAajLjs53bHlrFAoT5k7Gal4?e=pPxZYS)
 ### Overview
 This project features an interactive Power BI dashboard to analyse sales, product performance and overall business trends for an e-commerce company (EcomExpress). The dataset covers transactions from January 2024 to November 2024.
 
